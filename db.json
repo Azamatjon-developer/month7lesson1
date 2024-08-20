@@ -1,0 +1,59 @@
+{
+  "cars": [
+    {
+      "id": "bd78",
+      "imgURL": "blob:http://localhost:5173/be83c946-6600-418d-a5b4-cfe6ec703239",
+      "carName": "Jaguar XE L P250",
+      "carRating": "4",
+      "carPassage": "4",
+      "gearBox": "Auto",
+      "carAir": "Air Conditioning",
+      "carDoors": "4",
+      "carPrice": "1800"
+    },
+    {
+      "id": "1199",
+      "imgURL": "blob:http://localhost:5173/cbaa87e8-eb51-433e-912e-327e69ca50b8",
+      "carName": "Audi R8",
+      "carRating": "4",
+      "carPassage": "2",
+      "gearBox": "Auto",
+      "carAir": "Air Conditioning",
+      "carDoors": "2",
+      "carPrice": "2100"
+    },
+    {
+      "id": "5f43",
+      "imgURL": "blob:http://localhost:5173/5dd03a98-68fd-46a2-9769-f7caf378ea05",
+      "carName": "BMW M3",
+      "carRating": "4",
+      "carPassage": "2",
+      "gearBox": "Auto",
+      "carAir": "Air Conditioning",
+      "carDoors": "2",
+      "carPrice": "1600"
+    },
+    {
+      "id": "9625",
+      "imgURL": "blob:http://localhost:5173/40eabd86-5845-4f41-89ea-a5ae29f1736d",
+      "carName": "Lamborghini Huracan",
+      "carRating": "5",
+      "carPassage": "2",
+      "gearBox": "Auto",
+      "carAir": "Air Conditioning",
+      "carDoors": "2",
+      "carPrice": "2100"
+    },
+    {
+      "id": "2665",
+      "imgURL": "blob:http://localhost:5173/29106fa5-63ec-41b4-af58-3bcf79a1a5ed",
+      "carName": "Lamborghini Huracan",
+      "carRating": "5",
+      "carPassage": "2",
+      "gearBox": "Auto",
+      "carAir": "Air Conditioning",
+      "carDoors": "2",
+      "carPrice": "2300"
+    }
+  ]
+}
